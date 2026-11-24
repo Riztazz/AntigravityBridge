@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-bridge-local",
+  "owner": { "name": "local" },
+  "plugins": [
+    {
+      "name": "antigravity-bridge",
+      "source": "./",
+      "description": "Drive the Antigravity App (Gemini) from Claude Code."
+    }
+  ]
+}

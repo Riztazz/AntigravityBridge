@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ag-bridge": {
+      "command": "python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/bridge_server.py"]
+    }
+  }
+}
